@@ -3,7 +3,7 @@
   "path": "/test",
   "blocks": [
     {
-      "content": "\n# Page title\n\nHere's some content. ",
+      "content": "# Page title\n\nHere's some content. And here's some more. And some m",
       "center": false,
       "_template": "ContentBlock"
     }
