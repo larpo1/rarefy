@@ -1,11 +1,10 @@
 ---
-title: "Introducing Tina Grande \_\U0001F389"
+title: Hello there sailor
 path: /blog/introducing-tina-grande
 date: '2019-11-06T00:00:00.000Z'
 type: post
 authors:
   - katie-graham
-  - scott-byrne
   - scott-byrne
 draft: false
 hero:
