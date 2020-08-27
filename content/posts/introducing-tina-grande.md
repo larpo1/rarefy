@@ -7,7 +7,7 @@ authors:
   - scott-byrne
 draft: false
 hero:
-  image: ../images/coffee-beans.jpg
+  image: ../images/channel-manager.png
   large: false
   overlay: true
 ---
