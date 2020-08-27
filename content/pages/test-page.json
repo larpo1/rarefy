@@ -1,0 +1,11 @@
+{
+  "title": "Test page",
+  "path": "/test",
+  "blocks": [
+    {
+      "content": "\n# Page title\n\nHere's some content. ",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
