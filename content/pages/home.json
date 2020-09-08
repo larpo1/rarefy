@@ -2,19 +2,12 @@
   "path": "/",
   "blocks": [
     {
-      "name": "Form",
-      "recipient": "",
-      "fields": [],
-      "_template": "FormBlock",
-      "content": ""
-    },
-    {
       "image": "",
       "_template": "ImageBlock",
       "content": ""
     },
     {
-      "content": "New blog post",
+      "content": "Welcome to my blog. ",
       "center": false,
       "_template": "ContentBlock"
     }
