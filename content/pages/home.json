@@ -2,6 +2,11 @@
   "path": "/",
   "blocks": [
     {
+      "content": "Second content sec",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "image": "",
       "_template": "ImageBlock",
       "content": ""
