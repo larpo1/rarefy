@@ -2,17 +2,17 @@
   "path": "/",
   "blocks": [
     {
-      "content": "Second content sec",
-      "center": false,
-      "_template": "ContentBlock"
-    },
-    {
       "image": "",
       "_template": "ImageBlock",
       "content": ""
     },
     {
       "content": "Welcome to my blog. ",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "content": "Second content sec",
       "center": false,
       "_template": "ContentBlock"
     }
