@@ -7,6 +7,7 @@ draft: false
 hero:
   overlay: true
   large: false
+  image: ../images/product-management.jpg
 ---
 Nostris blandis iacuit Laertiadaeque est Tritona, [pectora si
 tantum](http://valens.io/haec.php) tantumque missus quoque plumis **Atlante da** generum meminitque exstat!
