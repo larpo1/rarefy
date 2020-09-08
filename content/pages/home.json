@@ -23,7 +23,7 @@
         "arrow": true
       },
       {
-        "label": "Contact David",
+        "label": "Contact",
         "link": "/contact",
         "arrow": false,
         "primary": false
