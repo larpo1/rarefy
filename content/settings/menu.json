@@ -1,12 +1,12 @@
 {
   "menuItems": [
     {
-      "label": "Playbook",
-      "link": "/playbook"
-    },
-    {
       "label": "Home",
       "link": "/"
+    },
+    {
+      "label": "Playbook",
+      "link": "/playbook"
     },
     {
       "label": "About",
