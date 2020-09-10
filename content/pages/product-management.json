@@ -10,7 +10,7 @@
       "content": ""
     },
     {
-      "content": "This is the product management section.",
+      "content": "This is the product management section.\n\n[Hiring](/product-management/hiring \"Hiring\")",
       "center": false,
       "_template": "ContentBlock"
     }
