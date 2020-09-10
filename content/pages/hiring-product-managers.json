@@ -1,0 +1,18 @@
+{
+  "title": "Hiring Product Managers",
+  "path": "/product-management/hiring",
+  "blocks": [
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "## Resources\n\nKenn Norton's [excellent piece on hiring product managers](https://www.kennorton.com/essays/productmanager.html)",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
