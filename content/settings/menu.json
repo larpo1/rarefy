@@ -9,13 +9,16 @@
       "link": "/playbook",
       "subMenu": [
         {
+          "label": "Integrations",
+          "link": "/playbook/building-an-integrations-marketplace"
+        },
+        {
           "subMenu": [
             {}
           ],
           "label": "Product Management",
-          "link": "/product-m"
-        },
-        {}
+          "link": "/product-ma"
+        }
       ]
     },
     {
