@@ -11,7 +11,9 @@
         {
           "subMenu": [
             {}
-          ]
+          ],
+          "label": "Product Management",
+          "link": "/product-m"
         },
         {}
       ]
