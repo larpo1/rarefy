@@ -10,7 +10,7 @@
       "content": ""
     },
     {
-      "content": "[Product management](/product-management)",
+      "content": "[Product management](/product-management)\n\n[Building Integrations](/playbook/building-an-integrations-marketplace)",
       "center": false,
       "_template": "ContentBlock"
     }
